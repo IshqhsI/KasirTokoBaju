@@ -1,0 +1,1 @@
+- Ganti BASEURL dalam Folder app/config.php

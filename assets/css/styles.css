@@ -1,0 +1,26 @@
+.form-control-lg {
+  height: 3rem;
+  font-size: 1.75rem;
+}
+
+.kasir:hover {
+  background-color: #c5c5c5;
+}
+
+.nota {
+  margin-top: 6%;
+}
+
+.garis {
+  position: relative;
+}
+
+.garis::after {
+  position: absolute;
+  content: '';
+  height: 3px;
+  width: 260px;
+  right: 12px;
+  background-color: white;
+  top: -8px;
+}
